@@ -9738,16 +9738,14 @@
     "accepted": []
    },
    {
-    "fr": "Ce mois, j'ai trop de travail.",
-    "pt": "Este mês eu tenho trabalho demais.",
+    "fr": "Il vient dans un mois.",
+    "pt": "Ele vem daqui a um mês.",
     "lemmas": [
-     "ce#det",
-     "mois",
-     "je",
-     "avoir",
-     "trop",
-     "de",
-     "travail"
+     "il",
+     "venir",
+     "dans",
+     "un",
+     "mois"
     ],
     "bridge": [],
     "accepted": []

@@ -34,7 +34,7 @@ formas: semaines
 
 ## mois | m | mês | muá | mwa
 > Il est parti il y a un mois. | Ele foi embora há um mês.
-> Ce mois, j'ai trop de travail. | Este mês eu tenho trabalho demais. | @ce=ce#det
+> Il vient dans un mois. | Ele vem daqui a um mês.
 
 ## année | f | ano (duração) | anê | ane
 formas: années
