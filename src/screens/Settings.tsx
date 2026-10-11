@@ -96,7 +96,7 @@ export default function Settings({
   };
 
   const downloadReminder = () => {
-    const blob = new Blob([icsFile(time, window.location.origin)], { type: 'text/calendar' });
+    const blob = new Blob([icsFile(time, window.location.origin + import.meta.env.BASE_URL)], { type: 'text/calendar' });
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
     a.download = 'lembrete-frances.ics';

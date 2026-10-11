@@ -21,7 +21,7 @@ export async function sendLoginEmail(email: string): Promise<string | null> {
   if (!supabase) return 'Nuvem não configurada.';
   const { error } = await supabase.auth.signInWithOtp({
     email,
-    options: { emailRedirectTo: window.location.origin, shouldCreateUser: true },
+    options: { emailRedirectTo: window.location.origin + import.meta.env.BASE_URL, shouldCreateUser: true },
   });
   return error ? translateAuthError(error.message) : null;
 }

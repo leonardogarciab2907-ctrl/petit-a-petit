@@ -7,7 +7,11 @@ import { readFileSync } from 'node:fs';
 
 const version = JSON.parse(readFileSync(new URL('./package.json', import.meta.url), 'utf8')).version as string;
 
+// No GitHub Pages o app fica em /petit-a-petit/; localmente, na raiz.
+const base = process.env.BASE_PATH ?? '/';
+
 export default defineConfig({
+  base,
   define: { __APP_VERSION__: JSON.stringify(version) },
   plugins: [
     react(),
@@ -20,8 +24,8 @@ export default defineConfig({
         short_name: 'Petit à Petit',
         description: 'Francês em 10 minutos por dia',
         lang: 'pt-BR',
-        start_url: '/',
-        scope: '/',
+        start_url: base,
+        scope: base,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -34,7 +38,7 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,webmanifest}'],
-        navigateFallback: '/index.html',
+        navigateFallback: `${base}index.html`,
       },
     }),
   ],
