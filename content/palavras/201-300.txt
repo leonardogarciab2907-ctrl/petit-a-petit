@@ -1,0 +1,486 @@
+# Palavras 201–300.
+
+## peur | f | medo | pör | pœʁ
+dica: Avoir peur = ter medo.
+> J'ai peur. | Estou com medo.
+> Tu as peur ? | Você está com medo?
+
+## faim | f | fome | fẽ | fɛ̃
+dica: Avoir faim = estar com fome.
+> J'ai faim. | Estou com fome.
+> Tu as faim ? | Você está com fome?
+
+## envie | f | vontade | ãví | ɑ̃vi
+formas: envies
+falso: Envie é "vontade", não "inveja". Avoir envie de = ter vontade de.
+> J'ai envie d'un café. | Estou com vontade de um café.
+> Tu as envie de venir ? | Você está com vontade de vir?
+
+## amour | m | amor | amúr | amuʁ
+formas: amours
+> C'est l'amour. | É o amor.
+> Mon amour, tu es là ? | Meu amor, você está aí?
+
+## mot | m | palavra | mô | mo
+formas: mots
+dica: O t final não se pronuncia: mô.
+> Je ne comprends pas ce mot. | Eu não entendo essa palavra. | @ce=ce#det
+> C'est quoi, ce mot ? | O que é essa palavra? | @ce=ce#det
+
+## semaine | f | semana | sömén | səmɛn
+formas: semaines
+> Je viens dans une semaine. | Eu venho daqui a uma semana.
+> Une fois par semaine. | Uma vez por semana.
+
+## mois | m | mês | muá | mwa
+> Il est parti il y a un mois. | Ele foi embora há um mês.
+> Ce mois, j'ai trop de travail. | Este mês eu tenho trabalho demais. | @ce=ce#det
+
+## année | f | ano (duração) | anê | ane
+formas: années
+dica: An conta (deux ans); année fala da duração (toute l'année).
+> Bonne année à tous ! | Feliz ano novo a todos!
+> C'est une bonne année. | É um bom ano.
+
+## matin | m | manhã | matẽ | matɛ̃
+formas: matins
+> Ce matin, j'ai vu ton frère. | Hoje de manhã eu vi o seu irmão. | @ce=ce#det
+> À demain matin ! | Até amanhã de manhã!
+
+## soir | m | noite, fim de tarde | suár | swaʁ
+formas: soirs
+dica: Ce soir = hoje à noite. Bonsoir = boa noite (ao chegar).
+> À ce soir ! | Até hoje à noite! | @ce=ce#det
+> On sort ce soir ? | Vamos sair hoje à noite? | @ce=ce#det
+
+## minute | f | minuto | minüt | minyt
+formas: minutes
+> Une minute, s'il vous plaît. | Um minuto, por favor.
+> J'arrive dans deux minutes. | Eu chego em dois minutos.
+
+## jouer | verbo | jogar, brincar, tocar | juê | ʒwe
+formas: joue joues joue jouons jouez jouent joué
+> Tu veux jouer ? | Você quer brincar?
+> Les enfants jouent dans la rue. | As crianças brincam na rua.
+
+## travailler | verbo | trabalhar | travaiê | tʁavaje
+formas: travaille travailles travaille travaillons travaillez travaillent travaillé
+> Je travaille demain. | Eu trabalho amanhã.
+> Il travaille trop. | Ele trabalha demais.
+
+## écouter | verbo | escutar, ouvir | êkutê | ekute
+formas: écoute écoutes écoute écoutons écoutez écoutent écouté
+> Écoute-moi bien. | Me escuta bem.
+> Tu m'écoutes ? | Você está me escutando?
+
+## payer | verbo | pagar | péiê | peje
+formas: paie paies paie payons payez paient payé paye payes
+> Je vais payer. | Eu vou pagar.
+> C'est moi qui paie. | Quem paga sou eu.
+
+## tomber | verbo | cair | tõbê | tɔ̃be
+formas: tombe tombes tombe tombons tombez tombent tombé tombée
+> Il est tombé. | Ele caiu.
+> Tu vas tomber ! | Você vai cair!
+
+## essayer | verbo | tentar, experimentar | esséiê | eseje
+formas: essaie essaies essaie essayons essayez essaient essayé essaye
+> Je vais essayer. | Eu vou tentar.
+> Essaie encore une fois. | Tenta mais uma vez.
+
+## oublier | verbo | esquecer | ubliê | ublije
+formas: oublie oublies oublie oublions oubliez oublient oublié
+> J'ai oublié. | Eu esqueci.
+> N'oublie pas ton argent. | Não esquece o seu dinheiro.
+
+## perdre | verbo | perder | pérdr | pɛʁdʁ
+formas: perds perds perd perdons perdez perdent perdu
+> J'ai perdu mon chien. | Eu perdi o meu cachorro.
+> Tu n'as rien perdu. | Você não perdeu nada.
+
+## aider | verbo | ajudar | édê | ede
+formas: aide aides aide aidons aidez aident aidé
+> Tu peux m'aider ? | Você pode me ajudar?
+> Je vais t'aider. | Eu vou te ajudar.
+
+## montrer | verbo | mostrar | mõtrê | mɔ̃tʁe
+formas: montre montres montre montrons montrez montrent montré
+> Montre-moi ça. | Me mostra isso.
+> Je vais te montrer. | Eu vou te mostrar.
+
+## devenir | verbo | tornar-se, virar | dövnír | dəvniʁ
+formas: deviens deviens devient devenons devenez deviennent devenu devenue
+> Il est devenu grand. | Ele ficou grande.
+> Qu'est-ce qu'il est devenu ? | O que foi feito dele?
+
+## finir | verbo | terminar, acabar | finír | finiʁ
+formas: finis finis finit finissons finissez finissent fini
+> J'ai fini. | Eu terminei.
+> Tu as fini ton travail ? | Você terminou o seu trabalho?
+
+## commencer | verbo | começar | komãsê | kɔmɑ̃se
+formas: commence commences commence commençons commencez commencent commencé
+> On commence maintenant ? | A gente começa agora?
+> Ça commence demain. | Isso começa amanhã.
+
+## ouvrir | verbo | abrir | uvrír | uvʁiʁ
+formas: ouvre ouvres ouvre ouvrons ouvrez ouvrent ouvert
+> Ouvre la porte. | Abre a porta.
+> Le café ouvre quand ? | Quando o café abre?
+
+## lire | verbo | ler | lir | liʁ
+formas: lis lis lit lisons lisez lisent lu
+> J'aime lire. | Eu gosto de ler.
+> Tu as lu ça ? | Você leu isso?
+
+## écrire | verbo | escrever | êkrír | ekʁiʁ
+formas: écris écris écrit écrivons écrivez écrivent écrit
+> Je t'écris demain. | Eu te escrevo amanhã.
+> Comment ça s'écrit ? | Como se escreve isso? | @s'=se
+
+## boire | verbo | beber | buár | bwaʁ
+formas: bois bois boit buvons buvez boivent bu
+> Tu veux boire quelque chose ? | Você quer beber alguma coisa?
+> Je ne bois pas de café. | Eu não bebo café.
+
+## dormir | verbo | dormir | dormír | dɔʁmiʁ
+formas: dors dors dort dormons dormez dorment dormi
+> Je vais dormir. | Eu vou dormir.
+> Tu as bien dormi ? | Você dormiu bem?
+
+## acheter | verbo | comprar | axtê | aʃte
+formas: achète achètes achète achetons achetez achètent acheté
+> Je vais acheter du pain. | Eu vou comprar pão.
+> Il a acheté une voiture. | Ele comprou um carro.
+
+## porter | verbo | levar, carregar, vestir | portê | pɔʁte
+formas: porte portes porte portons portez portent porté
+> Tu peux porter ça ? | Você consegue carregar isso?
+> Je porte ça pour toi. | Eu levo isso para você.
+
+## tenir | verbo | segurar | tönír | təniʁ
+formas: tiens tiens tient tenons tenez tiennent tenu
+dica: Tiens ! = toma! (ao entregar algo). Tenir à = gostar muito de.
+> Tiens, c'est pour toi. | Toma, é para você.
+> Je tiens à toi. | Eu gosto muito de você.
+
+## arrêter | verbo | parar | arêtê | aʁete
+formas: arrête arrêtes arrête arrêtons arrêtez arrêtent arrêté
+> Arrête ça, s'il te plaît. | Para com isso, por favor.
+> Il faut arrêter ça. | É preciso parar com isso.
+
+## marcher | verbo | andar, funcionar | marxê | maʁʃe
+formas: marche marches marche marchons marchez marchent marché
+dica: Ça marche ! = combinado! / funciona!
+> Ça marche, merci. | Combinado, obrigado.
+> On va marcher un peu. | A gente vai andar um pouco.
+
+## changer | verbo | mudar, trocar | xãjê | ʃɑ̃ʒe
+formas: change changes change changeons changez changent changé
+> Ça ne change rien. | Isso não muda nada.
+> Il faut changer ça. | É preciso mudar isso.
+
+## rentrer | verbo | voltar para casa | rãtrê | ʁɑ̃tʁe
+formas: rentre rentres rentre rentrons rentrez rentrent rentré
+> Je rentre à la maison. | Eu volto para casa.
+> Tu rentres quand ? | Quando você volta para casa?
+
+## revenir | verbo | voltar | rövnír | ʁəvniʁ
+formas: reviens reviens revient revenons revenez reviennent revenu revenue
+> Je reviens dans une minute. | Eu volto em um minuto.
+> Reviens ici, s'il te plaît. | Volta aqui, por favor.
+
+## retrouver | verbo | reencontrar, achar de novo | rötruvê | ʁətʁuve
+formas: retrouve retrouves retrouve retrouvons retrouvez retrouvent retrouvé
+> Je ne retrouve pas mon argent. | Eu não acho o meu dinheiro.
+> On se retrouve au café ? | A gente se encontra no café?
+
+## garder | verbo | guardar, ficar com | gardê | ɡaʁde
+formas: garde gardes garde gardons gardez gardent gardé
+> Garde ça pour toi. | Guarda isso para você.
+> Tu peux garder mon chien ? | Você pode ficar com o meu cachorro?
+
+## sentir | verbo | sentir, cheirar | sãtír | sɑ̃tiʁ
+formas: sens sens sent sentons sentez sentent senti
+dica: Se sentir = sentir-se: je me sens bien = eu me sinto bem.
+> Je me sens bien. | Eu me sinto bem.
+> Ça sent bon. | Isso tem um cheiro bom.
+
+## mourir | verbo | morrer | murír | muʁiʁ
+formas: meurs meurs meurt mourons mourez meurent mort morte
+> Je meurs de faim. | Estou morrendo de fome.
+
+## jeune | adj | jovem | jön | ʒœn
+formas: jeunes
+> Il est très jeune. | Ele é muito jovem.
+> C'est une jeune femme. | É uma moça.
+
+## heureux | adj | feliz | örö | œʁø
+formas: heureuse heureuses
+> Je suis heureux. | Eu estou feliz.
+> Elle est heureuse ici. | Ela é feliz aqui.
+
+## fatigué | adj | cansado, cansada | fatiguê | fatiɡe
+formas: fatiguée fatigués fatiguées
+> Je suis fatigué. | Eu estou cansado.
+> Tu es fatiguée ? | Você está cansada?
+
+## content | adj | contente | kõtã | kɔ̃tɑ̃
+formas: contente contents contentes
+> Je suis content de te voir. | Estou contente de te ver.
+> Elle est contente. | Ela está contente.
+
+## prêt | adj | pronto, pronta | pré | pʁɛ
+formas: prête prêts prêtes
+> Tu es prêt ? | Você está pronto?
+> Je suis prête. | Eu estou pronta.
+
+## possible | adj | possível | possíbl | pɔsibl
+formas: possibles
+> C'est possible. | É possível.
+> Ce n'est pas possible ! | Não é possível!
+
+## important | adj | importante | ẽportã | ɛ̃pɔʁtɑ̃
+formas: importante importants importantes
+> C'est très important. | É muito importante.
+> Ce n'est pas important. | Não é importante.
+
+## facile | adj | fácil | fasíl | fasil
+formas: faciles
+> Ce n'est pas facile. | Não é fácil.
+> C'est facile à dire. | É fácil falar.
+
+## difficile | adj | difícil | difisíl | difisil
+formas: difficiles
+> C'est difficile. | É difícil.
+> Le français est difficile ? | O francês é difícil?
+
+## gentil | adj | gentil, legal | jãtí | ʒɑ̃ti
+formas: gentille gentils gentilles
+> Tu es très gentil. | Você é muito gentil.
+> C'est gentil, merci. | Que gentil, obrigado.
+
+## fou | adj | louco, louca | fu | fu
+formas: folle fous folles fol
+> Tu es fou ? | Você está louco?
+> C'est fou ! | Que loucura!
+
+## malade | adj | doente | malád | malad
+formas: malades
+> Je suis malade. | Eu estou doente.
+> Mon fils est malade. | Meu filho está doente.
+
+## libre | adj | livre | líbr | libʁ
+formas: libres
+> Tu es libre ce soir ? | Você está livre hoje à noite? | @ce=ce#det
+> Cette place est libre ? | Este lugar está livre?
+
+## cher | adj | caro, querido | xér | ʃɛʁ
+formas: chère chers chères
+> C'est trop cher. | É caro demais.
+> Mon cher ami. | Meu caro amigo.
+
+## chaud | adj | quente | xô | ʃo
+formas: chaude chauds chaudes
+dica: Il fait chaud = está calor. J'ai chaud = estou com calor.
+> Il fait chaud. | Está calor.
+> Le café est chaud. | O café está quente.
+
+## froid | adj | frio, fria | fruá | fʁwa
+formas: froide froids froides
+> Il fait froid. | Está frio.
+> J'ai froid. | Estou com frio.
+
+## drôle | adj | engraçado | drôl | dʁol
+formas: drôles
+> C'est drôle. | É engraçado.
+> Tu es drôle. | Você é engraçado.
+
+## joli | adj | bonito, bonita | jolí | ʒɔli
+formas: jolie jolis jolies
+> C'est joli. | É bonito.
+> Quelle jolie maison ! | Que casa bonita!
+
+## premier | adj | primeiro, primeira | prömiê | pʁəmje
+formas: première premiers premières
+> C'est la première fois. | É a primeira vez.
+> Je suis le premier. | Eu sou o primeiro.
+
+## dernier | adj | último, última | derniê | dɛʁnje
+formas: dernière derniers dernières
+> C'est la dernière fois. | É a última vez.
+> C'est mon dernier jour. | É o meu último dia.
+
+## quatre | num | quatro | kátr | katʁ
+> J'ai quatre enfants. | Eu tenho quatro filhos.
+> Il est quatre heures. | São quatro horas.
+
+## cinq | num | cinco | sẽk | sɛ̃k
+> Dans cinq minutes. | Daqui a cinco minutos.
+> Cinq cafés, s'il vous plaît. | Cinco cafés, por favor.
+
+## six | num | seis | sis | sis
+> Il est six heures. | São seis horas.
+> Mon fils a six ans. | Meu filho tem seis anos.
+
+## dix | num | dez | dis | dis
+> Dix minutes, pas plus. | Dez minutos, não mais.
+> Il a dix ans. | Ele tem dez anos.
+
+## cent | num | cem | sã | sɑ̃
+> Il a cent ans ! | Ele tem cem anos!
+
+## mille | num | mil | mil | mil
+> Mille fois merci. | Mil vezes obrigado.
+> Il y a mille choses à faire. | Tem mil coisas para fazer.
+
+## entre | prep | entre | ãtr | ɑ̃tʁ
+> Entre toi et moi. | Entre você e eu.
+> C'est entre nous. | Fica entre nós.
+
+## vers | prep | para (direção), por volta de | vér | vɛʁ
+> Je viens vers cinq heures. | Eu venho por volta das cinco.
+> Il vient vers moi. | Ele vem na minha direção.
+
+## pendant | prep | durante | pãdã | pɑ̃dɑ̃
+> Pendant la nuit. | Durante a noite.
+> Il a parlé pendant une heure. | Ele falou durante uma hora.
+
+## depuis | prep | desde, há | döpüí | dəpɥi
+dica: Para algo que ainda continua: j'attends depuis une heure = espero há uma hora.
+> Je t'attends depuis une heure. | Eu te espero há uma hora.
+> Tu es là depuis quand ? | Você está aí desde quando?
+
+## table | f | mesa | tábl | tabl
+formas: tables
+> On mange à table. | A gente come na mesa.
+> La table est prête. | A mesa está pronta.
+
+## sous | prep | embaixo de, sob | su | su
+> Le chien est sous la table. | O cachorro está embaixo da mesa.
+
+## lit | m | cama | li | li
+formas: lits
+> Je vais au lit. | Eu vou para a cama.
+> Il est encore au lit. | Ele ainda está na cama.
+
+## contre | prep | contra | kõtr | kɔ̃tʁ
+> Je n'ai rien contre toi. | Eu não tenho nada contra você.
+> Tu es pour ou contre ? | Você é a favor ou contra?
+
+## près | adv | perto | pré | pʁɛ
+dica: Près de = perto de.
+> C'est près d'ici. | É perto daqui.
+> Il vit près de chez moi. | Ele mora perto da minha casa.
+
+## loin | adv | longe | luẽ | lwɛ̃
+> C'est loin ? | É longe?
+> Il vit loin d'ici. | Ele mora longe daqui.
+
+## ensemble | adv | juntos | ãsãbl | ɑ̃sɑ̃bl
+> On vit ensemble. | A gente mora junto.
+> On y va ensemble ? | Vamos juntos?
+
+## dehors | adv | lá fora | döór | dəɔʁ
+> Il fait froid dehors. | Está frio lá fora.
+> Les enfants jouent dehors. | As crianças brincam lá fora.
+
+## seulement | adv | somente, só | sölmã | sœlmɑ̃
+> J'ai seulement deux minutes. | Eu só tenho dois minutos.
+> Pas seulement moi. | Não só eu.
+
+## bientôt | adv | logo, em breve | biẽtô | bjɛ̃to
+dica: À bientôt ! = até logo!
+> À bientôt, mon ami ! | Até logo, meu amigo!
+> Il arrive bientôt. | Ele chega logo.
+
+## souvent | adv | muitas vezes, com frequência | suvã | suvɑ̃
+> Je viens souvent ici. | Eu venho muito aqui.
+> Tu viens souvent ? | Você vem sempre aqui?
+
+## longtemps | adv | muito tempo | lõtã | lɔ̃tɑ̃
+> Il y a longtemps. | Faz muito tempo.
+> Je t'attends depuis longtemps. | Eu te espero faz muito tempo.
+
+## eux | pron | eles (forma tônica) | ö | ø
+> C'est eux. | São eles.
+> Je vais avec eux. | Eu vou com eles.
+
+## chaque | adj | cada | xák | ʃak
+> Je viens chaque jour. | Eu venho todo dia.
+> Il appelle chaque soir. | Ele liga toda noite.
+
+## aucun | adj | nenhum, nenhuma | ôkẽ | okœ̃
+formas: aucune
+dica: Vem com ne: je n'ai aucune idée = não faço ideia.
+> Je n'en ai aucune idée. | Eu não faço ideia.
+> Il n'y a aucun problème. | Não tem problema nenhum.
+
+## téléphone | m | telefone | têlêfón | telefɔn
+formas: téléphones
+> Où est mon téléphone ? | Onde está o meu telefone?
+> Je n'ai pas mon téléphone. | Eu não estou com o meu telefone.
+
+## livre | m | livro | lívr | livʁ
+formas: livres
+falso: Livre é "livro". O "livre" do português é libre.
+> J'aime ce livre. | Eu gosto deste livro. | @ce=ce#det
+> Tu as lu ce livre ? | Você leu esse livro? | @ce=ce#det
+
+## film | m | filme | film | film
+formas: films
+> On regarde un film ? | Vamos ver um filme?
+> C'est un bon film. | É um filme bom.
+
+## musique | f | música | müzík | myzik
+formas: musiques
+> J'aime la musique. | Eu gosto de música.
+> Tu écoutes quelle musique ? | Que música você escuta?
+
+## vin | m | vinho | vẽ | vɛ̃
+formas: vins
+> Je voudrais du vin. | Eu queria vinho.
+> Ce vin est très bon. | Este vinho é muito bom. | @ce=ce#det
+
+## dîner | m | jantar | dinê | dine
+formas: dîners
+> Le dîner est prêt. | O jantar está pronto.
+> On fait quoi pour le dîner ? | O que a gente faz para o jantar?
+
+## bureau | m | escritório, mesa de trabalho | bürô | byʁo
+formas: bureaux
+> Je suis au bureau. | Eu estou no escritório.
+> Mon bureau est loin. | Meu escritório é longe.
+
+## docteur | m | médico, doutor | doktör | dɔktœʁ
+formas: docteurs
+> Il faut appeler le docteur. | É preciso chamar o médico.
+> Le docteur arrive. | O médico está chegando.
+
+## police | f | polícia | polís | pɔlis
+> Appelle la police ! | Chama a polícia!
+> La police est là. | A polícia está aqui.
+
+## voix | f | voz | vuá | vwa
+> J'aime ta voix. | Eu gosto da sua voz.
+> Elle a une belle voix. | Ela tem uma voz bonita.
+
+## côté | m | lado | kôtê | kote
+formas: côtés
+dica: À côté = do lado, ao lado.
+> Il est à côté. | Ele está aqui do lado.
+> Viens à côté de moi. | Vem para o meu lado.
+
+## fin | f | fim | fẽ | fɛ̃
+formas: fins
+> C'est la fin. | É o fim.
+> À la fin, il est parti. | No fim, ele foi embora.
+
+## tout de suite | expr | agora mesmo, já | tut süít | tutsɥit
+> Viens ici tout de suite ! | Vem aqui agora mesmo!
+> Je reviens tout de suite. | Já volto.
+
+## mieux | adv | melhor | miö | mjø
+dica: Bien → mieux (melhor, como advérbio): ça va mieux = está melhor.
+> C'est mieux. | É melhor.
+> Ça va mieux ? | Está melhor?

@@ -1,0 +1,548 @@
+# Palavras 1–100, em ordem de frequência (francês falado).
+# Formato: ver docs/conteudo.md. Cada frase só pode usar palavras de cima + a própria.
+
+## je | pron | eu | jö | ʒə
+formas: j'
+pilar: p-pronomes
+dica: Antes de vogal ou h mudo vira j': j'ai, j'aime.
+> Je suis là. | Eu estou aqui. | Je suis ici.
+
+## être | verbo | ser, estar | étr | ɛtʁ
+formas: suis es est sommes êtes sont été étais était étions étiez étaient sera serai
+pilar: p-etre
+dica: O mesmo verbo serve para ser e estar.
+> Je suis désolé. | Sinto muito. | Je suis désolée.
+> Tu es là ? | Você está aí? | Tu es ici ?
+
+## tu | pron | você (informal), tu | tü | ty
+dica: Tu é o "você" de amigos e família. Com desconhecidos, use vous.
+> Tu es là ? | Você está aí? | Tu es ici ?
+
+## ce | pron | isso (em c'est), o (em ce que) | sö | sə
+formas: c'
+pilar: p-elisao
+dica: C'est = é, isso é. Antes de vogal, ce vira c'.
+> C'est moi. | Sou eu.
+> C'est toi ? | É você?
+
+## pas | adv | não (em ne … pas) | pá | pɑ
+pilar: p-negacao
+dica: Na fala, o ne costuma sumir e só o pas fica: c'est pas moi.
+> C'est pas moi. | Não sou eu. | Ce n'est pas moi.
+
+## ne | adv | não (antes do verbo) | nö | nə
+formas: n'
+dica: Ne vai antes do verbo e pas depois: je ne suis pas. Antes de vogal vira n'.
+> Je ne suis pas là. | Eu não estou aqui.
+> Ce n'est pas moi. | Não sou eu.
+
+## le | art | o, a, os, as | lö | lə
+exibir: le, la, les
+formas: la les l'
+pilar: p-artigos
+dica: le = masculino, la = feminino, les = plural. Antes de vogal: l'.
+> C'est la vie. | É a vida.
+
+## il | pron | ele (sujeito) | il | il
+formas: ils
+dica: Ils = eles. Coisas masculinas também são il: le café? Il est bon.
+> Il est là. | Ele está aqui.
+> Il n'est pas là. | Ele não está aqui.
+
+## là | adv | aqui, aí, lá | lá | la
+dica: Na fala, là quer dizer muitas vezes "aqui": je suis là = estou aqui.
+> Il est là. | Ele está aqui.
+> Tu es là ? | Você está aí?
+
+## moi | pron | eu (forma tônica), mim | muá | mwa
+dica: Forma forte de je: usada sozinha, depois de preposição ou para dar ênfase.
+> C'est moi. | Sou eu.
+> Moi, je suis là. | Eu estou aqui.
+
+## de | prep | de | dö | də
+formas: d'
+pilar: p-preposicoes
+dica: Antes de vogal vira d'. De + le = du; de + les = des.
+> Il est près de moi. | Ele está perto de mim.
+
+## avoir | verbo | ter | avuár | avwaʁ
+formas: ai as a avons avez ont eu avais avait aura aie
+pilar: p-avoir
+dica: Avoir também forma o passado: j'ai vu = eu vi.
+> J'ai le temps. | Eu tenho tempo.
+> Il n'a pas le temps. | Ele não tem tempo.
+
+## un | art | um, uma, uns | ẽ | œ̃
+exibir: un, une, des
+formas: une des
+pilar: p-indefinidos
+dica: un = masculino, une = feminino, des = plural (uns, umas).
+> C'est un ami. | É um amigo.
+> J'ai une idée. | Eu tenho uma ideia.
+
+## vous | pron | vocês, o senhor, a senhora | vu | vu
+dica: Vous é o plural de tu e também o "você" educado, para desconhecidos.
+> Vous êtes là ? | Vocês estão aí?
+> Vous avez le temps ? | O senhor tem tempo?
+
+## toi | pron | você (forma tônica), ti | tuá | twa
+dica: Forma forte de tu: et toi? = e você?
+> C'est toi ? | É você?
+> Toi, tu es là ? | E você, está aí?
+
+## et | conj | e | ê | e
+dica: O t nunca se pronuncia: et soa "ê".
+> Toi et moi. | Você e eu.
+> Il est là, et toi ? | Ele está aqui, e você?
+
+## à | prep | a, em, para | á | a
+dica: À + le = au; à + les = aux. C'est à moi = é meu.
+> C'est à moi. | É meu.
+> C'est à toi. | É seu.
+
+## ça | pron | isso | sá | sa
+dica: Ça é o jeito falado de cela: ça va?, c'est ça.
+> C'est ça. | É isso.
+> Ça, c'est à moi. | Isso é meu.
+
+## aller | verbo | ir | alê | ale
+formas: vais vas va allons allez vont allé allée allés irai ira
+pilar: p-aller
+dica: Ça va ? = tudo bem? Aller + verbo = futuro: je vais voir = vou ver.
+> Ça va, et toi ? | Tudo bem, e você?
+> Vous allez bien ? | O senhor está bem?
+
+## bien | adv | bem | biẽ | bjɛ̃
+dica: Bien sûr = claro. Très bien = muito bem.
+> Ça va bien. | Está tudo bem.
+> Je vais bien, et toi ? | Eu estou bem, e você?
+
+## temps | m | tempo | tã | tɑ̃
+dica: Também é o tempo do clima: quel temps fait-il ? = como está o tempo?
+> J'ai le temps. | Eu tenho tempo.
+> Tu as le temps ? | Você tem tempo?
+
+## on | pron | a gente, nós | õ | ɔ̃
+dica: Na fala, on substitui nous: on est là = a gente está aqui. O verbo fica como com il.
+> On est là. | A gente está aqui.
+> On y va ? | Vamos?
+
+## nous | pron | nós | nu | nu
+dica: Na fala do dia a dia, on é mais comum que nous.
+> Nous sommes là. | Nós estamos aqui.
+> Nous avons le temps. | Nós temos tempo.
+
+## qui | pron | quem, que | ki | ki
+dica: Qui pergunta "quem?" e também liga frases: l'homme qui parle = o homem que fala.
+> Qui est là ? | Quem está aí?
+> C'est qui ? | Quem é?
+
+## que | conj | que, o que | kö | kə
+formas: qu'
+dica: Antes de vogal vira qu': qu'il, qu'est-ce que.
+> Qu'est-ce que c'est ? | O que é isso?
+
+## faire | verbo | fazer | fér | fɛʁ
+formas: fais fais fait faisons faites font fait faisait fera
+pilar: p-faire
+dica: Também fala do tempo: il fait froid = está frio.
+> Qu'est-ce que tu fais ? | O que você está fazendo?
+> Ne fais pas ça ! | Não faça isso!
+
+## elle | pron | ela | él | ɛl
+formas: elles
+dica: Elles = elas. Coisas femininas também são elle: la maison? Elle est là.
+> Elle est là. | Ela está aqui.
+> Qui est-elle ? | Quem é ela?
+
+## ami | m | amigo, amiga (amie) | amí | ami
+formas: amie amis amies
+dica: Amie (amiga) soa igual a ami.
+> C'est un ami. | É um amigo.
+> C'est mon amie. | É minha amiga.
+
+## mon | det | meu, minha, meus | mõ | mɔ̃
+exibir: mon, ma, mes
+formas: ma mes
+pilar: p-possessivos
+dica: mon = masculino, ma = feminino, mes = plural. Antes de vogal, sempre mon: mon amie.
+> C'est mon ami. | É meu amigo.
+> C'est ma vie. | É a minha vida.
+
+## pouvoir | verbo | poder | puvuár | puvwaʁ
+formas: peux peux peut pouvons pouvez peuvent pu pourrais
+pilar: p-modais
+dica: Depois dele vem o verbo no infinitivo: je peux venir = posso vir.
+> Je ne peux pas. | Eu não posso.
+> Tu peux y aller. | Você pode ir.
+
+## vouloir | verbo | querer | vuluár | vulwaʁ
+formas: veux veux veut voulons voulez veulent voulu voudrais
+dica: Je voudrais = eu gostaria. É o jeito educado de pedir.
+> Tu veux ça ? | Você quer isso?
+> Je voudrais un café. | Eu queria um café.
+
+## y | pron | lá, nisso | i | i
+dica: Il y a = há, tem. On y va = vamos.
+> On y va ? | Vamos?
+> Il y a quelqu'un ? | Tem alguém aí?
+
+## pour | prep | para, por | pur | puʁ
+> C'est pour toi. | É para você.
+> C'est pour moi ? | É para mim?
+
+## homme | m | homem | óm | ɔm
+formas: hommes
+dica: O h não se pronuncia: l'homme soa "lóm".
+> Qui est cet homme ? | Quem é esse homem?
+> L'homme est là. | O homem está aqui.
+
+## est-ce que | expr | (transforma a frase em pergunta) | éskö | ɛskə
+formas: est-ce_qu'
+pilar: p-perguntas
+dica: Coloque na frente de uma frase para virar pergunta, sem mudar mais nada.
+> Est-ce que tu es là ? | Você está aí?
+> Est-ce que ça va ? | Está tudo bem?
+
+## dans | prep | dentro de, em | dã | dɑ̃
+> Il est dans la maison. | Ele está dentro da casa.
+
+## me | pron | me | mö | mə
+formas: m'
+dica: Antes de vogal vira m': tu m'aimes?
+> Ça me va. | Isso está bom para mim.
+> Tu m'aimes ? | Você me ama?
+
+## tout | adj | tudo, todo, toda | tu | tu
+exibir: tout, toute, tous, toutes
+formas: toute tous toutes
+dica: Tout le monde = todo mundo. Pas du tout = de jeito nenhum.
+> C'est tout. | É só isso.
+> Tout va bien. | Está tudo bem.
+
+## non | adv | não (resposta) | nõ | nɔ̃
+> Non, ce n'est pas moi. | Não, não sou eu.
+> Non, je ne peux pas. | Não, eu não posso.
+
+## oui | adv | sim | uí | wi
+> Oui, c'est moi. | Sim, sou eu.
+> Oui, ça va. | Sim, tudo bem.
+
+## mais | conj | mas | mé | mɛ
+falso: Mais quer dizer "mas". O "mais" do português é plus.
+> Je veux, mais je ne peux pas. | Eu quero, mas não posso.
+
+## avec | prep | com | avék | avɛk
+> Je suis avec toi. | Eu estou com você.
+> Elle est avec un ami. | Ela está com um amigo.
+
+## chose | f | coisa | xôz | ʃoz
+formas: choses
+> J'ai une chose pour toi. | Eu tenho uma coisa para você.
+
+## plus | adv | mais, não … mais (ne … plus) | plü | ply
+dica: Ne … plus = não … mais: je ne veux plus = não quero mais.
+> Je ne veux plus. | Eu não quero mais.
+> Il n'est plus là. | Ele não está mais aqui.
+
+## savoir | verbo | saber | savuár | savwaʁ
+formas: sais sais sait savons savez savent su
+dica: Je ne sais pas = não sei. Na fala vira "je sais pas" (xêpá).
+> Je ne sais pas. | Eu não sei.
+> Tu sais qui c'est ? | Você sabe quem é?
+
+## dire | verbo | dizer | dir | diʁ
+formas: dis dis dit disons dites disent dit
+dica: Vouloir dire = querer dizer, significar.
+> Qu'est-ce que tu dis ? | O que você está dizendo?
+> Qu'est-ce que ça veut dire ? | O que isso quer dizer?
+
+## voir | verbo | ver | vuár | vwaʁ
+formas: vois vois voit voyons voyez voient vu
+dica: Tu vois ? = sabe? entende? (muito usado na conversa).
+> Tu vois ça ? | Você está vendo isso?
+> On va voir. | Vamos ver.
+
+## venir | verbo | vir | vönír | vəniʁ
+formas: viens viens vient venons venez viennent venu venue
+dica: Venir de + verbo = acabar de: je viens de manger = acabei de comer.
+> Tu viens avec moi ? | Você vem comigo?
+> Elle vient avec nous. | Ela vem com a gente.
+
+## quoi | pron | o quê, que | kuá | kwa
+dica: Na fala, quoi vai no fim da pergunta: tu fais quoi ?
+> Tu fais quoi ? | O que você está fazendo?
+> Ça veut dire quoi ? | Isso quer dizer o quê?
+
+## en | prep | em, disso (pronome) | ã | ɑ̃
+dica: Preposição (en ville = na cidade) e pronome (j'en veux = quero um pouco disso).
+> Tu en veux ? | Você quer (um pouco)?
+> Je n'en veux pas. | Eu não quero (isso).
+
+## si | conj | se (condição), tão, sim (contra uma negação) | si | si
+formas: s'
+dica: Si também responde "sim" a uma pergunta negativa: tu ne viens pas ? — si !
+> Si tu veux. | Se você quiser.
+> S'il est là, on y va. | Se ele estiver aqui, a gente vai.
+
+## vie | f | vida | vi | vi
+formas: vies
+> C'est la vie. | É a vida.
+> C'est ma vie. | É a minha vida.
+
+## ici | adv | aqui | isí | isi
+> Je suis ici. | Eu estou aqui.
+> Viens ici avec moi ! | Vem aqui comigo!
+
+## rien | pron | nada | riẽ | ʁjɛ̃
+dica: Ce n'est rien / de rien = de nada.
+> Je ne sais rien. | Eu não sei nada.
+> Ce n'est rien. | Não é nada.
+
+## maison | f | casa | mézõ | mɛzɔ̃
+formas: maisons
+dica: À la maison = em casa.
+> Il est dans la maison. | Ele está dentro da casa.
+> Je suis à la maison. | Eu estou em casa.
+
+## café | m | café | kafê | kafe
+formas: cafés
+dica: Le café é a bebida e também o bar onde se toma café.
+> Je voudrais un café. | Eu queria um café.
+> Tu veux un café ? | Você quer um café?
+
+## du | art | do, um pouco de | dü | dy
+pilar: p-contracoes
+dica: De + le = du. Também quer dizer "um pouco de": du café.
+> Tu veux du café ? | Você quer café?
+> Il vient du café. | Ele está vindo do café.
+
+## au | prep | ao, no, à | ô | o
+exibir: au, aux
+formas: aux
+dica: À + le = au; à + les = aux.
+> On va au café ? | Vamos ao café?
+> Je suis au café. | Eu estou no café.
+
+## bon | adj | bom, boa | bõ | bɔ̃
+formas: bonne bons bonnes
+pilar: p-adjetivos
+dica: Vem antes do substantivo: un bon café. Bonne nuit = boa noite.
+> Le café est bon. | O café está bom.
+> C'est une bonne chose. | É uma coisa boa.
+
+## très | adv | muito (+ adjetivo) | tré | tʁɛ
+dica: Très vai com adjetivo ou advérbio: très bon. Com verbo, use beaucoup.
+> C'est très bon. | É muito bom.
+> Je vais très bien. | Eu estou muito bem.
+
+## jour | m | dia | jur | ʒuʁ
+formas: jours
+> C'est un bon jour. | É um bom dia.
+> Un jour, je vais y aller. | Um dia, eu vou lá.
+
+## te | pron | te | tö | tə
+formas: t'
+dica: Antes de vogal vira t': je t'aime.
+> Je te vois. | Eu te vejo.
+> Ça te va ? | Está bom para você?
+
+## se | pron | se (pronome) | sö | sə
+formas: s'
+dica: Pronome dos verbos reflexivos: on se voit = a gente se vê.
+> Ça se dit ? | Isso se diz?
+> On se voit ? | A gente se vê?
+
+## lui | pron | ele (forma tônica), lhe | lüí | lɥi
+dica: Forma forte de il (c'est lui) e também "para ele / para ela": je lui parle.
+> C'est lui. | É ele.
+> Je vais avec lui. | Eu vou com ele.
+
+## merci | interj | obrigado, obrigada | mersí | mɛʁsi
+dica: Merci beaucoup = muito obrigado.
+> Merci pour tout. | Obrigado por tudo.
+> Merci, c'est très bon. | Obrigado, está muito bom.
+
+## comme | conj | como (comparação), já que | kóm | kɔm
+dica: Comme compara (comme toi = como você). Para perguntar "como?", use comment.
+> Comme tu veux. | Como você quiser.
+> C'est comme ça. | É assim.
+
+## le#pron | pron | o (pronome), a (pronome), os (pronome) | lö | lə
+exibir: le, la, les (pronome)
+formas: la les l'
+dica: Como pronome, vem antes do verbo: je le vois = eu o vejo (eu vejo ele).
+> Je le vois. | Eu o vejo. | @le=le#pron
+> Tu la vois ? | Você a vê? | @la=le#pron
+
+## où | adv | onde | u | u
+dica: Com acento é "onde"; sem acento (ou) é "ou".
+> Où est mon café ? | Onde está meu café?
+> Tu es où ? | Onde você está?
+
+## comment | adv | como (pergunta) | komã | kɔmɑ̃
+> Comment ça va ? | Como vai?
+> Comment tu fais ça ? | Como você faz isso?
+
+## pourquoi | adv | por quê, por que | purkuá | puʁkwa
+dica: A resposta usa parce que (porque).
+> Pourquoi tu dis ça ? | Por que você diz isso?
+> Pourquoi tu ne viens pas ? | Por que você não vem?
+
+## quand | conj | quando | kã | kɑ̃
+> Tu viens quand ? | Quando você vem?
+> Quand tu veux. | Quando você quiser.
+
+## parce que | conj | porque | parskö | paʁskə
+formas: parce_qu'
+> Parce que je veux. | Porque eu quero.
+> Je viens parce que tu es là. | Eu venho porque você está aqui.
+
+## juste | adv | só, apenas, justo | jüst | ʒyst
+> C'est juste un café. | É só um café.
+> Ce n'est pas juste. | Não é justo.
+
+## alors | adv | então | alór | alɔʁ
+> Alors, on y va ? | Então, vamos?
+> Alors, ça va ? | E aí, tudo bem?
+
+## encore | adv | ainda, de novo, mais | ãkór | ɑ̃kɔʁ
+> Encore un café ? | Mais um café?
+> Tu es encore là ? | Você ainda está aí?
+
+## aussi | adv | também | ôsí | osi
+> Moi aussi, je viens. | Eu também vou.
+> Elle vient aussi. | Ela vem também.
+
+## petit | adj | pequeno, pequena | pötí | pəti
+formas: petite petits petites
+dica: Vem antes do substantivo: une petite maison.
+> C'est un petit café. | É um café pequeno.
+> J'ai une petite maison. | Eu tenho uma casa pequena.
+
+## grand | adj | grande, alto | grã | ɡʁɑ̃
+formas: grande grands grandes
+dica: Para pessoas, grand quer dizer "alto".
+> C'est un grand homme. | É um grande homem.
+> La maison est grande. | A casa é grande.
+
+## monsieur | m | senhor | mösiö | məsjø
+formas: messieurs
+dica: Forma educada de chamar um homem, como "senhor".
+> Oui, monsieur, c'est moi. | Sim, senhor, sou eu.
+> Le monsieur est ici. | O senhor está aqui.
+
+## madame | f | senhora | madám | madam
+formas: mesdames
+> Merci, madame, c'est très bon. | Obrigado, senhora, está muito bom.
+> Madame, vous êtes là ? | Senhora, a senhora está aí?
+
+## parler | verbo | falar | parlê | paʁle
+formas: parle parles parle parlons parlez parlent parlé
+pilar: p-verbos-er
+> Je parle avec lui. | Eu falo com ele.
+> On parle de quoi ? | A gente está falando de quê?
+
+## français | m | francês (língua), francês (pessoa) | frãsé | fʁɑ̃sɛ
+formas: française françaises
+dica: Nomes de línguas não têm maiúscula: le français.
+> Tu parles français ? | Você fala francês?
+> Je ne parle pas français. | Eu não falo francês.
+
+## aimer | verbo | amar, gostar | émê | eme
+formas: aime aimes aime aimons aimez aiment aimé
+dica: Com pessoas, aimer é amar; para "gostar de alguém", diga aimer bien.
+> Je t'aime. | Eu te amo.
+> J'aime le café. | Eu gosto de café.
+
+## falloir | verbo | precisar (il faut = é preciso) | faluár | falwaʁ
+formas: faut fallu faudra fallait
+dica: Só existe com il: il faut partir = é preciso ir embora.
+> Il faut y aller. | Precisamos ir.
+> Qu'est-ce qu'il faut faire ? | O que é preciso fazer?
+
+## devoir | verbo | dever, ter que | dövuár | dəvwaʁ
+formas: dois dois doit devons devez doivent dû
+> Je dois y aller. | Eu tenho que ir.
+> Tu dois parler avec elle. | Você tem que falar com ela.
+
+## croire | verbo | acreditar, achar | kruár | kʁwaʁ
+formas: crois crois croit croyons croyez croient cru
+> Je crois que oui. | Acho que sim.
+> Je ne te crois pas. | Eu não acredito em você.
+
+## prendre | verbo | pegar, tomar | prãdr | pʁɑ̃dʁ
+formas: prends prends prend prenons prenez prennent pris
+dica: Também é "tomar" comida ou bebida: je prends un café.
+> Je prends un café. | Eu vou tomar um café.
+> Tu prends quoi ? | O que você vai pedir?
+
+## son | det | seu, sua (dele, dela) | sõ | sɔ̃
+exibir: son, sa, ses
+formas: sa ses
+dica: Concorda com a coisa, não com o dono: sa maison = a casa dele ou dela.
+> C'est sa maison. | É a casa dele.
+> Il est avec son ami. | Ele está com o amigo dele.
+
+## ton | det | teu, tua (seu, de você) | tõ | tɔ̃
+exibir: ton, ta, tes
+formas: ta tes
+> C'est ton café ? | É o seu café?
+> Où est ta maison ? | Onde fica a sua casa?
+
+## votre | det | seu, sua (de vocês, do senhor) | vótr | vɔtʁ
+exibir: votre, vos
+formas: vos
+> C'est votre café, madame. | É o seu café, senhora.
+> Où est votre maison ? | Onde fica a casa de vocês?
+
+## notre | det | nosso, nossa | nótr | nɔtʁ
+exibir: notre, nos
+formas: nos
+> C'est notre maison. | É a nossa casa.
+> Notre ami est là. | Nosso amigo está aqui.
+
+## leur | pron | deles, delas, lhes | lör | lœʁ
+formas: leurs
+dica: Antes de substantivo é "deles" (leur maison); antes de verbo é "para eles" (je leur parle).
+> C'est leur maison. | É a casa deles.
+> Je leur parle. | Eu falo com eles.
+
+## ce#det | det | este, esse, esta | sö | sə
+exibir: ce, cet, cette, ces
+formas: cet cette ces
+dica: ce (masculino), cet (masculino antes de vogal), cette (feminino), ces (plural).
+> Ce café est bon. | Este café está bom. | @ce=ce#det
+> Cette maison est à moi. | Esta casa é minha.
+
+## deux | num | dois, duas | dö | dø
+dica: Antes de vogal, o x soa como z: deux amis (döz amí).
+> J'ai deux amis. | Eu tenho dois amigos.
+> Deux cafés, merci. | Dois cafés, obrigado.
+
+## trois | num | três | truá | tʁwa
+> J'ai trois jours. | Eu tenho três dias.
+> Trois cafés, merci. | Três cafés, obrigado.
+
+## peu | adv | pouco | pö | pø
+dica: Un peu = um pouco. Un peu de café = um pouco de café.
+> Je parle un peu français. | Eu falo um pouco de francês.
+> Un peu de café ? | Um pouco de café?
+
+## beaucoup | adv | muito, muitos | bôkú | boku
+dica: Com verbo ou substantivo: j'aime beaucoup, beaucoup de gens.
+> Merci beaucoup, madame. | Muito obrigado, senhora.
+> J'aime beaucoup ça. | Eu gosto muito disso.
+
+## trop | adv | demais | trô | tʁo
+> C'est trop. | É demais.
+> Il parle trop. | Ele fala demais.
+
+## déjà | adv | já | dêjá | deʒa
+> Tu es déjà là ? | Você já está aí?
+> J'ai déjà un café. | Eu já tenho um café.
+
+## toujours | adv | sempre, ainda | tujúr | tuʒuʁ
+dica: Também quer dizer "ainda": il est toujours là = ele ainda está aqui.
+> Il est toujours là. | Ele ainda está aqui.
+> Je t'aime toujours. | Eu ainda te amo.

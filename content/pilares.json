@@ -1,0 +1,250 @@
+[
+  {
+    "id": "p-pronomes",
+    "title": "Pronomes pessoais",
+    "trigger": ["je", "tu", "il", "elle", "on", "nous", "vous"],
+    "explanation": "Em francês o sujeito quase nunca some: sempre diga je, tu, il… je = eu, tu = você (informal), il / elle = ele / ela, on = a gente, nous = nós, vous = vocês ou você educado, ils / elles = eles / elas.",
+    "examples": [
+      { "fr": "Je suis là.", "pt": "Eu estou aqui." },
+      { "fr": "Elle est là.", "pt": "Ela está aqui." }
+    ],
+    "practice": [
+      { "fr": "___ suis là.", "pt": "Eu estou aqui.", "answer": "Je", "options": ["Tu", "Il", "Nous"] },
+      { "fr": "___ es là ?", "pt": "Você está aí?", "answer": "Tu", "options": ["Je", "Il", "Vous"] },
+      { "fr": "___ sommes là.", "pt": "Nós estamos aqui.", "answer": "Nous", "options": ["Vous", "Ils", "Je"] },
+      { "fr": "___ êtes là ?", "pt": "Vocês estão aí?", "answer": "Vous", "options": ["Nous", "Tu", "Ils"] }
+    ]
+  },
+  {
+    "id": "p-etre",
+    "title": "Être no presente",
+    "trigger": ["être"],
+    "explanation": "Être é ser e estar. No presente: je suis, tu es, il / elle / on est, nous sommes, vous êtes, ils / elles sont. C'est = é, isso é.",
+    "examples": [
+      { "fr": "Je suis là.", "pt": "Eu estou aqui." },
+      { "fr": "Ils sont là.", "pt": "Eles estão aqui." }
+    ],
+    "practice": [
+      { "fr": "Je ___ là.", "pt": "Eu estou aqui.", "answer": "suis", "options": ["es", "est", "sont"] },
+      { "fr": "Tu ___ là ?", "pt": "Você está aí?", "answer": "es", "options": ["suis", "sommes", "êtes"] },
+      { "fr": "Il ___ là.", "pt": "Ele está aqui.", "answer": "est", "options": ["es", "suis", "sont"] },
+      { "fr": "Vous ___ là ?", "pt": "Vocês estão aí?", "answer": "êtes", "options": ["sommes", "est", "sont"] },
+      { "fr": "Ils ___ là.", "pt": "Eles estão aqui.", "answer": "sont", "options": ["sommes", "est", "êtes"] }
+    ]
+  },
+  {
+    "id": "p-elisao",
+    "title": "Elisão: j', l', c', n'",
+    "trigger": ["ce", "je", "le", "ne", "de", "que", "me", "te", "se"],
+    "explanation": "Palavras curtas terminadas em e ou a perdem a vogal antes de outra vogal ou de h mudo e ganham um apóstrofo: je ai → j'ai, le ami → l'ami, ce est → c'est, ne est → n'est.",
+    "examples": [
+      { "fr": "C'est moi.", "pt": "Sou eu." },
+      { "fr": "J'ai le temps.", "pt": "Eu tenho tempo." }
+    ],
+    "practice": [
+      { "fr": "___est moi.", "pt": "Sou eu.", "answer": "C'", "options": ["Ce ", "Ça ", "Il "] },
+      { "fr": "Ce ___est pas moi.", "pt": "Não sou eu.", "answer": "n'", "options": ["ne ", "pas ", "non "] },
+      { "fr": "___ai le temps.", "pt": "Eu tenho tempo.", "answer": "J'", "options": ["Je ", "Tu ", "Me "] }
+    ]
+  },
+  {
+    "id": "p-negacao",
+    "title": "Negação: ne … pas",
+    "trigger": ["pas", "ne"],
+    "explanation": "Para negar, coloque ne antes do verbo e pas depois: je ne sais pas. Antes de vogal, ne vira n': ce n'est pas. Na fala, o ne costuma sumir: c'est pas moi.",
+    "examples": [
+      { "fr": "Je ne sais pas.", "pt": "Eu não sei." },
+      { "fr": "Il n'est pas là.", "pt": "Ele não está aqui." }
+    ],
+    "practice": [
+      { "fr": "Je ne suis ___ là.", "pt": "Eu não estou aqui.", "answer": "pas", "options": ["non", "ne", "moi"] },
+      { "fr": "Je ___ suis pas là.", "pt": "Eu não estou aqui.", "answer": "ne", "options": ["pas", "non", "me"] },
+      { "fr": "Il ___ pas là.", "pt": "Ele não está aqui.", "answer": "n'est", "options": ["est", "ne", "c'est"] }
+    ]
+  },
+  {
+    "id": "p-artigos",
+    "title": "Artigos definidos e gênero",
+    "trigger": ["le"],
+    "explanation": "Todo substantivo francês é masculino ou feminino, e o gênero nem sempre bate com o português. le = o, la = a, les = os / as. Antes de vogal ou h mudo, le e la viram l'. Aprenda cada palavra junto com o artigo.",
+    "examples": [
+      { "fr": "le pain", "pt": "o pão" },
+      { "fr": "la maison", "pt": "a casa" },
+      { "fr": "l'eau", "pt": "a água" }
+    ],
+    "practice": [
+      { "fr": "___ maison", "pt": "a casa", "answer": "la", "options": ["le", "les", "l'"] },
+      { "fr": "___ pain", "pt": "o pão", "answer": "le", "options": ["la", "les", "l'"] },
+      { "fr": "___ gens", "pt": "as pessoas", "answer": "les", "options": ["le", "la", "l'"] }
+    ]
+  },
+  {
+    "id": "p-preposicoes",
+    "title": "Preposições básicas",
+    "trigger": ["de", "à", "dans", "sur", "avec", "pour", "en"],
+    "explanation": "As mais usadas: à (a, em, para), de (de), dans (dentro de), sur (sobre, em cima de), avec (com), pour (para), en (em). Atenção: à + le vira au e de + le vira du.",
+    "examples": [
+      { "fr": "Il est près de moi.", "pt": "Ele está perto de mim." },
+      { "fr": "C'est pour toi.", "pt": "É para você." }
+    ],
+    "practice": [
+      { "fr": "Je suis ___ toi.", "pt": "Estou com você.", "answer": "avec", "options": ["dans", "sur", "de"] },
+      { "fr": "Il est ___ la maison.", "pt": "Ele está dentro da casa.", "answer": "dans", "options": ["sur", "avec", "pour"] },
+      { "fr": "C'est ___ moi.", "pt": "É para mim.", "answer": "pour", "options": ["avec", "dans", "sur"] }
+    ]
+  },
+  {
+    "id": "p-avoir",
+    "title": "Avoir no presente",
+    "trigger": ["avoir"],
+    "explanation": "Avoir = ter. No presente: j'ai, tu as, il / elle / on a, nous avons, vous avez, ils / elles ont. Em francês se \"tem\" fome, medo e razão: j'ai faim, j'ai peur, j'ai raison.",
+    "examples": [
+      { "fr": "J'ai le temps.", "pt": "Eu tenho tempo." },
+      { "fr": "Nous avons le temps.", "pt": "Nós temos tempo." }
+    ],
+    "practice": [
+      { "fr": "J'___ le temps.", "pt": "Eu tenho tempo.", "answer": "ai", "options": ["as", "a", "ont"] },
+      { "fr": "Tu ___ le temps ?", "pt": "Você tem tempo?", "answer": "as", "options": ["ai", "avez", "a"] },
+      { "fr": "Ils ___ le temps.", "pt": "Eles têm tempo.", "answer": "ont", "options": ["avons", "a", "as"] },
+      { "fr": "Vous ___ le temps ?", "pt": "Vocês têm tempo?", "answer": "avez", "options": ["avons", "ont", "as"] }
+    ]
+  },
+  {
+    "id": "p-indefinidos",
+    "title": "Artigos indefinidos",
+    "trigger": ["un"],
+    "explanation": "un = um (masculino), une = uma (feminino), des = uns / umas (plural). Na frase negativa viram de: j'ai un chien → je n'ai pas de chien.",
+    "examples": [
+      { "fr": "C'est un ami.", "pt": "É um amigo." },
+      { "fr": "J'ai une idée.", "pt": "Eu tenho uma ideia." }
+    ],
+    "practice": [
+      { "fr": "C'est ___ homme.", "pt": "É um homem.", "answer": "un", "options": ["une", "des", "la"] },
+      { "fr": "J'ai ___ idée.", "pt": "Eu tenho uma ideia.", "answer": "une", "options": ["un", "des", "le"] },
+      { "fr": "Il y a ___ gens.", "pt": "Tem pessoas.", "answer": "des", "options": ["un", "une", "le"] }
+    ]
+  },
+  {
+    "id": "p-aller",
+    "title": "Aller e o futuro próximo",
+    "trigger": ["aller"],
+    "explanation": "Aller = ir: je vais, tu vas, il va, nous allons, vous allez, ils vont. Aller + verbo no infinitivo é o jeito mais comum de falar do futuro: je vais manger = vou comer. Ça va ? = tudo bem?",
+    "examples": [
+      { "fr": "Ça va, et toi ?", "pt": "Tudo bem, e você?" },
+      { "fr": "On va voir.", "pt": "Vamos ver." }
+    ],
+    "practice": [
+      { "fr": "Je ___ bien.", "pt": "Eu estou bem.", "answer": "vais", "options": ["vas", "va", "allez"] },
+      { "fr": "Tu ___ bien ?", "pt": "Você está bem?", "answer": "vas", "options": ["vais", "vont", "allons"] },
+      { "fr": "On ___ voir.", "pt": "Vamos ver.", "answer": "va", "options": ["vais", "vont", "allez"] },
+      { "fr": "Vous ___ bien ?", "pt": "O senhor está bem?", "answer": "allez", "options": ["allons", "vont", "va"] }
+    ]
+  },
+  {
+    "id": "p-faire",
+    "title": "Faire",
+    "trigger": ["faire"],
+    "explanation": "Faire = fazer: je fais, tu fais, il fait, nous faisons, vous faites, ils font. Também fala do tempo: il fait chaud (está calor), il fait froid (está frio), il fait nuit (é noite).",
+    "examples": [
+      { "fr": "Qu'est-ce que tu fais ?", "pt": "O que você está fazendo?" },
+      { "fr": "Il fait froid.", "pt": "Está frio." }
+    ],
+    "practice": [
+      { "fr": "Qu'est-ce que tu ___ ?", "pt": "O que você está fazendo?", "answer": "fais", "options": ["fait", "faites", "font"] },
+      { "fr": "Il ___ froid.", "pt": "Está frio.", "answer": "fait", "options": ["fais", "font", "faites"] },
+      { "fr": "Vous ___ quoi ?", "pt": "O que vocês estão fazendo?", "answer": "faites", "options": ["faisons", "font", "fait"] }
+    ]
+  },
+  {
+    "id": "p-modais",
+    "title": "Pouvoir, vouloir e devoir + infinitivo",
+    "trigger": ["pouvoir", "vouloir", "devoir"],
+    "explanation": "Poder, querer e dever vêm seguidos do verbo no infinitivo, como em português: je peux venir (posso vir), je veux partir (quero ir embora), je dois travailler (tenho que trabalhar).",
+    "examples": [
+      { "fr": "Je ne peux pas.", "pt": "Eu não posso." },
+      { "fr": "Tu peux y aller.", "pt": "Você pode ir." }
+    ],
+    "practice": [
+      { "fr": "Je ___ venir.", "pt": "Eu posso vir.", "answer": "peux", "options": ["peut", "veut", "peuvent"] },
+      { "fr": "Tu ___ un café ?", "pt": "Você quer um café?", "answer": "veux", "options": ["veut", "voulez", "peux"] },
+      { "fr": "Je ___ y aller.", "pt": "Eu tenho que ir.", "answer": "dois", "options": ["doit", "peux", "veux"] }
+    ]
+  },
+  {
+    "id": "p-perguntas",
+    "title": "Perguntas",
+    "trigger": ["est-ce que"],
+    "explanation": "Três jeitos de perguntar: 1) só com a entonação: tu viens ? 2) com est-ce que na frente: est-ce que tu viens ? 3) qu'est-ce que = o que: qu'est-ce que tu fais ? Na fala, o mais comum é o primeiro.",
+    "examples": [
+      { "fr": "Est-ce que tu es là ?", "pt": "Você está aí?" },
+      { "fr": "Qu'est-ce que c'est ?", "pt": "O que é isso?" }
+    ],
+    "practice": [
+      { "fr": "___ tu es là ?", "pt": "Você está aí?", "answer": "Est-ce que", "options": ["Qu'est-ce que", "Qui", "Que"] },
+      { "fr": "___ tu fais ?", "pt": "O que você está fazendo?", "answer": "Qu'est-ce que", "options": ["Est-ce que", "Qui", "Où"] },
+      { "fr": "___ est là ?", "pt": "Quem está aí?", "answer": "Qui", "options": ["Que", "Quoi", "Est-ce que"] }
+    ]
+  },
+  {
+    "id": "p-possessivos",
+    "title": "Possessivos",
+    "trigger": ["mon"],
+    "explanation": "O possessivo concorda com a coisa possuída, não com o dono: mon (masculino), ma (feminino), mes (plural). Antes de vogal, use mon mesmo no feminino: mon amie. Seguem o mesmo modelo: ton / ta / tes e son / sa / ses.",
+    "examples": [
+      { "fr": "C'est mon ami.", "pt": "É meu amigo." },
+      { "fr": "C'est ma vie.", "pt": "É a minha vida." }
+    ],
+    "practice": [
+      { "fr": "C'est ___ maison.", "pt": "É a minha casa.", "answer": "ma", "options": ["mon", "mes", "me"] },
+      { "fr": "C'est ___ café.", "pt": "É o meu café.", "answer": "mon", "options": ["ma", "mes", "moi"] },
+      { "fr": "C'est ___ amie.", "pt": "É a minha amiga.", "answer": "mon", "options": ["ma", "mes", "me"] },
+      { "fr": "Ce sont ___ amis.", "pt": "São meus amigos.", "answer": "mes", "options": ["mon", "ma", "moi"] }
+    ]
+  },
+  {
+    "id": "p-contracoes",
+    "title": "Contrações: du, au",
+    "trigger": ["du", "au"],
+    "explanation": "de + le = du, de + les = des, à + le = au, à + les = aux. Com la e l' não há contração: de la, à la, de l', à l'. Du também quer dizer \"um pouco de\": du café.",
+    "examples": [
+      { "fr": "Tu veux du café ?", "pt": "Você quer café?" },
+      { "fr": "On va au café ?", "pt": "Vamos ao café?" }
+    ],
+    "practice": [
+      { "fr": "Je vais ___ café.", "pt": "Eu vou ao café.", "answer": "au", "options": ["à le", "du", "à la"] },
+      { "fr": "Il vient ___ café.", "pt": "Ele vem do café.", "answer": "du", "options": ["de le", "au", "de la"] },
+      { "fr": "Je suis ___ maison.", "pt": "Estou em casa.", "answer": "à la", "options": ["au", "du", "aux"] }
+    ]
+  },
+  {
+    "id": "p-adjetivos",
+    "title": "Adjetivos: concordância e posição",
+    "trigger": ["bon", "petit", "grand"],
+    "explanation": "O adjetivo concorda com o substantivo: ganha um e no feminino e um s no plural (petit, petite, petits, petites). A maioria vem depois do substantivo (un homme seul), mas os curtos e comuns vêm antes: bon, petit, grand, beau, nouveau, vieux.",
+    "examples": [
+      { "fr": "C'est une bonne chose.", "pt": "É uma coisa boa." },
+      { "fr": "Le café est bon.", "pt": "O café é bom." }
+    ],
+    "practice": [
+      { "fr": "C'est une ___ chose.", "pt": "É uma coisa boa.", "answer": "bonne", "options": ["bon", "bons", "bonnes"] },
+      { "fr": "Le café est ___.", "pt": "O café é bom.", "answer": "bon", "options": ["bonne", "bons", "bonnes"] },
+      { "fr": "J'ai une ___ maison.", "pt": "Eu tenho uma casa pequena.", "answer": "petite", "options": ["petit", "petits", "petites"] }
+    ]
+  },
+  {
+    "id": "p-verbos-er",
+    "title": "Verbos em -er no presente",
+    "trigger": ["parler", "aimer"],
+    "explanation": "A maioria dos verbos termina em -er e segue o mesmo modelo: tira o -er e põe je -e, tu -es, il -e, nous -ons, vous -ez, ils -ent. Je parle, tu parles e ils parlent soam iguais!",
+    "examples": [
+      { "fr": "Je parle avec lui.", "pt": "Eu falo com ele." },
+      { "fr": "On parle de quoi ?", "pt": "A gente está falando de quê?" }
+    ],
+    "practice": [
+      { "fr": "Je ___ français.", "pt": "Eu falo francês.", "answer": "parle", "options": ["parles", "parlons", "parlez"] },
+      { "fr": "Nous ___ français.", "pt": "Nós falamos francês.", "answer": "parlons", "options": ["parle", "parlez", "parlent"] },
+      { "fr": "Vous ___ français ?", "pt": "Vocês falam francês?", "answer": "parlez", "options": ["parlons", "parle", "parlent"] },
+      { "fr": "Tu ___ français ?", "pt": "Você fala francês?", "answer": "parles", "options": ["parle", "parlez", "parlons"] }
+    ]
+  }
+]
