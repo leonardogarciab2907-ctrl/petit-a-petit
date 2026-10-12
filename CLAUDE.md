@@ -24,8 +24,9 @@ curtas, repetição espaçada FSRS (retenção 90%) e escada de exercícios. Pla
 
 ## Status (2026-10-11)
 
-Fase 1 construída e testada localmente (sessão completa, erros voltando no fim, "cafe" aceito, offline via
-service worker, estimativa antes de começar). Falta publicar: contas GitHub/Supabase/Vercel do usuário,
-`.env` com a URL e a chave pública do Supabase, deploy e teste no celular. Ver `docs/publicar.md`.
+Publicado em https://leonardogarciab2907-ctrl.github.io/petit-a-petit/ (GitHub Pages, workflow `.github/workflows/publicar.yml`;
+cada push na main publica). Usuário escolheu ficar SEM Supabase por enquanto: progresso só no aparelho.
+Se um dia quiser sincronizar: criar Supabase e seguir `docs/publicar.md` (passos 1 e 4; Vercel não é necessária).
+
 
 Próximo: fase 2 (falar, trocar uma peça, traduzir frase, reportar erro, conteúdo até 600) antes de ~5 semanas de uso.
